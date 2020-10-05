@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Discord Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/386941684723744768?simple=true&logo=discord&logoColor=white&color=43B581)](https://discord.gg/tfQqub6) 
+
 ![GitHub followers](https://img.shields.io/github/followers/untocodes?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/untocodes?style=social)
 
