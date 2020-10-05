@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Location](https://img.shields.io/badge/%F0%9F%93%8D%20From-Turku%2C%20FI-informational)
 ![GitHub followers](https://img.shields.io/github/followers/untocodes?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/untocodes?style=social)
 
