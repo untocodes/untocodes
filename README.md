@@ -7,7 +7,7 @@ Welcome to my profile! My name is Unto Karjalainen. I am an Software Engineer an
 Currently studying Information Technology at TAI.
 
 
-Working on [@Agenic](https://agenic.org) and [@DiscordBoats](https://discord.boats)
+Working on projects with [Agenic](https://agenic.org), including [DiscordBoats](https://discord.boats)
 
 I also do all kinds of software development and UI-Design as a freelancer. (ps. I am available for hire, just email or discord me)
 
