@@ -4,6 +4,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/untocodes?style=social)
 
 Welcome to my profile! My name is Unto Karjalainen. I am an Software Engineer and UI-Designer from Finland.
+
 Currently studying Information Technology at TAI.
 
 
