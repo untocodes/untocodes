@@ -16,6 +16,6 @@ I also do all kinds of software development and UI-Design as a freelancer. (ps. 
 
 By Email: unto@untok.fi
 
-By Discord: untocodes#0001
+In Discord: untocodes#0001
 
 ##### Also feel free to check [my portfolio/website](https://untok.fi)
