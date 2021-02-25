@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![Location](https://img.shields.io/badge/%F0%9F%93%8D%20From-Turku%2C%20FI-informational?style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/untocodes?style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/untocodes?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/untocodes?style=for-the-badge&label=Followers)
 [![Discord](https://img.shields.io/discord/416987984580313088?color=%237289DA&label=Discord&style=for-the-badge)](https://discord.gg/zrHdyqv4DN)
 
 Welcome to my profile! My name is Unto Karjalainen. I am an Software Engineer and UI-Designer from Finland.
