@@ -19,3 +19,7 @@ By Email: unto@untok.fi
 In Discord: untocodes#0001
 
 ##### Also feel free to check [my portfolio/website](https://untok.fi)
+
+#### Stats 
+
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=untocodes)
