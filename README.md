@@ -5,10 +5,9 @@
 
 Welcome to my profile! My name is Unto Karjalainen. I am an Software Engineer and UI-Designer from Finland.
 
-Currently studying Information Technology at TAI.
 
 
-Working on projects with [Agenic](https://agenic.org), including [DiscordBoats](https://discord.boats)
+Working on projects with [Agenic](https://agenic.org), and [repair.wiki](https://github.com/repair-manual)
 
 I also do all kinds of software development and UI-Design as a freelancer. (ps. I am available for hire, just email or discord me)
 
