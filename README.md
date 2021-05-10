@@ -7,7 +7,7 @@ Welcome to my profile! My name is Unto Karjalainen. I am an Software Engineer an
 
 
 
-Working on projects with [Agenic](https://agenic.org), and [repair.wiki](https://github.com/repair-manual)
+Working on projects with [Agenic](https://agenic.org) and [repair.wiki](https://github.com/repair-manual).
 
 I also do all kinds of software development and UI-Design as a freelancer. (ps. I am available for hire, just email or discord me)
 
