@@ -18,7 +18,7 @@
 >#### Contact me
 >
 >- By Email: unto@untok.fi
->- In Discord: untocodes#0001
+>- In Discord: Unto#0001
 
 ##### Also feel free to check out [my cv](https://untok.fi/cv) and [website](https://untok.fi/)
 
