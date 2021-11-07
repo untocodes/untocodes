@@ -15,7 +15,7 @@
 > - repair.wiki [Website](https://repair.wiki/w/Repair_Wiki) [GitHub](https://github.com/repair-wiki)
 > - discord.boats [Website](https://discord.boats) [GitHub](https://github.com/discordboats)
 
->#### Contact me
+>#### Contact me:
 >
 >- By Email: unto@untok.fi
 >- In Discord: Unto#0001
