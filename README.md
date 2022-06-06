@@ -8,12 +8,10 @@
 >#### I do:
 >- Devops Engineering
 >- Software Development
->- UI/UX/Web-Design
 >- Reverse engineering / Low-level Software Development
   
 >#### I work with:
 > - repair.wiki [Website](https://repair.wiki/w/Repair_Wiki) [GitHub](https://github.com/repair-wiki)
-> - discord.boats [Website](https://discord.boats) [GitHub](https://github.com/discordboats)
 
 >#### Contact me:
 >
